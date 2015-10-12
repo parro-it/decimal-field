@@ -1,0 +1,16 @@
+field-decimal:unresolved {
+    visibility:hidden;
+}
+
+field-decimal {
+    border: 1px solid gray;
+    display: inline-block;
+}
+
+field-decimal .editor {
+    padding: 2px 5px;
+}
+
+field-decimal .editor:focus {
+    outline: none;
+}

@@ -33,5 +33,9 @@
   "install-this-global-to-develop": {
     "esenv": "^1.1.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "insert-css": "^0.2.0",
+    "is-movement": "^0.1.0"
+  }
 }
